@@ -1,5 +1,5 @@
 # 🧠 Shelf Recognition – Coca-Cola Detection System (YOLOv11)
-
+![Image](/ShelfAutoAlert.jpg)
 This project uses **YOLOv11** from the **Ultralytics** library to automatically detect **Coca-Cola bottles** on shelves.  
 It counts the number of bottles and triggers an **alert if the shelf is empty**, making it perfect for smart retail monitoring.
 
